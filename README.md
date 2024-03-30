@@ -16,9 +16,10 @@ Single image filters:
 - Histogram Equalisation  
 - Image Convolution (includes the following masks: averaging, weighted averaging, 4 and 8 neighbour laplacian, 4 and 8 neighbour Laplacian enhancement, Roberts, Sobel X and Sobel Y).  
 - Salt and Pepper noise  
-- Order statistics filtering (incl. min filter, max filter, midpoint filter, median filter)  
+- Order statistics filtering (incl. min filter, max filter, midpoint filter, median filter)
+- Thresholding (incl. simple thresholding and iterative thresholding)
 
-Two image filters:
+Double image filters:
 
 - Addition
 - Subtraction  
