@@ -23,7 +23,7 @@ Double image filters:
 
 - Addition
 - Subtraction  
-- Multiplications  
+- Multiplication
 - Division  
 - Bitwise AND  
 - Bitwise OR  
