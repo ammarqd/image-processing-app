@@ -1,4 +1,4 @@
-# Image-Filtering-Application
+# image-processing-app
 
 Java application for processing a single image with filters or filtering across two images. Also includes the ability to select a Region of Interest (ROI) and apply multiple filters onto a single image.
 
